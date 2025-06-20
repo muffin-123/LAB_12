@@ -6,7 +6,7 @@ This full-stack application enables users to **sign up**, **log in**, and **view
 
 ## 🌟 Features
 
-- 🔐 User Authentication (JWT)
+- 🔐 User Authentication 
 - 📝 Sign Up and Login
 - 🚪 Secure Sign Out
 - 👥 Public User List
@@ -19,7 +19,6 @@ This full-stack application enables users to **sign up**, **log in**, and **view
 - **Frontend**: React.js, Axios, React Router
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB Atlas
-- **Authentication**: JWT, bcrypt
 - **Dev Tools**: Postman, VS Code
 
 ---
@@ -38,7 +37,7 @@ Lab_12/
 │   ├── models/             # MongoDB schemas
 │   ├── routes/             # API routes
 │   ├── controllers/        # Business logic
-│   ├── middleware/         # Auth checks
+│   ├── middleware/      
 │   └── server.js
 │
 ├── .env                    # Environment variables
