@@ -1,6 +1,6 @@
 # React + MongoDB Atlas CRUD App with Authentication
 
-This full-stack application enables users to **sign up**, **log in**, and **view a list of registered users**. Built using **React.js** for the frontend and **Express.js + MongoDB Atlas** for the backend, the project demonstrates basic **CRUD operations** and **JWT-based authentication**.
+This full-stack application enables users to **sign up**, **log in**, and **view a list of registered users**. Built using **React.js** for the frontend and **Express.js + MongoDB Atlas** for the backend, the project demonstrates basic **CRUD operations**.
 
 ---
 
